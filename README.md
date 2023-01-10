@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rebex3000
-- 👀 I’m interested in exploring environmental and anthropogenic parameters that affect organisms.
-- 🌱 I’m currently learning GAMs.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in technology that helps to better understand our rapidly changing world.
+- 🌱 I’m currently learning fundamental basics of coding.
 - 📫 How to reach me pabst.rebecca@gmail.com
 
 <!---
