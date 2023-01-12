@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rebex3000
+- 👋 Hi, I’m @Rebex3000 she/her
 - 👀 I’m interested in technology that helps to better understand our rapidly changing world.
 - 🌱 I’m currently learning fundamental basics of coding.
 - 📫 How to reach me pabst.rebecca@gmail.com
